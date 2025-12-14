@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 data/
 yolo_dataset/
-results/
+results*/
 runs/
 .vscode/
 yolo*
